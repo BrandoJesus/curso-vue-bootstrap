@@ -16,6 +16,7 @@
   text-align: center;
   color: #2c3e50;
 }
+    </b-container>
 #nav {
   padding: 30px;
 }
